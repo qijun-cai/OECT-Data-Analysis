@@ -6,9 +6,9 @@ As a complete beginner to Python and GitHub, I created this repository to organi
 
 ## Current Features
 
-- Transfer curve ($I_D$-$V_g$) plotting
-- Output curve ($I_D$-$V_D$ at multiple fixed $V_g$ values) plotting
-- Transient response ($I_D$-$t$) analysis
+- Transfer curve ($I_D$ - $V_g$) plotting
+- Output curve ($I_D$ - $V_D$ at multiple fixed $V_g$ values) plotting
+- Transient response ($I_D$- $t$) analysis
   - With curve fitting for response time $\tau$
 
 ## Requirements
